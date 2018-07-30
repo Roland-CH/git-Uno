@@ -1,1 +1,2 @@
-hola mundo Rolo
+Curso de Git
+Aplicando la licencia
